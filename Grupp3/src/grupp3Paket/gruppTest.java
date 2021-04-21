@@ -7,6 +7,8 @@ public class gruppTest {
 		
 		System.out.println("Daniel Test");
 		
+		System.out.println("Test 15:06");
+		
 	}
 	
 }
