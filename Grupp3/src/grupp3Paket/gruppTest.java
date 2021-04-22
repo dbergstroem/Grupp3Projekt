@@ -11,6 +11,8 @@ public class gruppTest {
 		
 		System.out.println("Test 15:35");
 		
+		System.out.println("Test torsdag 10:08");
+		
 	}
 	
 }
